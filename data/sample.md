@@ -61,8 +61,6 @@
 
 ---
 
----
-
 ## 7. コードブロック（Code Block）
 
 ### Node.js の例（あなたの converter.js で使っているコード）
