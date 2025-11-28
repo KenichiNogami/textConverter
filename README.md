@@ -197,16 +197,6 @@ Error: ENOENT: no such file or directory, open '.../data/人権特区QA.html'
 
 ---
 
-## 📘 拡張案（将来の拡張用）
-
-* ディレクトリ内のすべての `.md` を一括変換する CLI
-* `.docx → .html → .pdf` を一括で流すパイプライン
-* Next.js / Electron を使った Web UI / GUI 版
-* Azure Functions / Lambda 化して Web API として公開
-* AI（ChatGPT等）と連携して自動レポート生成 → MD → HTML → PDF まで自動化
-
----
-
 ## 🏁 まとめ
 
 このプロジェクトは、Word・Markdown・HTML の
